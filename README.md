@@ -1,6 +1,8 @@
-# Team ECB
+# Team High Energy
 
-Welcome, Team Energy Consumption B. 
+Welcome, Team Energy Consumption B. Otherwise known as Team High Energy.
+Developers: Andrew Barry, Sydney Green, Hillary Yarosh
+Coach: Sian Lewis
 
 Let's build out a README file together.
 
