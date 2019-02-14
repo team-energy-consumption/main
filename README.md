@@ -1,12 +1,30 @@
-# Team High Energy
+# Welcome to Team High Energy
 
-Welcome, Team Energy Consumption B. Otherwise known as Team High Energy.
+This Project is a part of WiDS-I Program
+
 Developers: Andrew Barry, Sydney Green, Hillary Yarosh
+
 Coach: Sian Lewis
 
-Let's build out a README file together.
+### PROBLEM STATEMENT: Predict the energy consumption of buildings based on historical data. 
 
-And let's learn the in's and out's of Github as well. 
+### DATA: 
 
-Who's with me?
+Historical Consumption: A selected time series of consumption data for over 200 buildings
+
+Building Metadata: Information Including Site number of building, surface area of building, temperatures of the building, and data on if the building is open or closed.
+
+Public Holidays Data: Includes name and dates of holidays for each site ID.
+
+Historical Weather Data: Information on the temperature of the weather station and the timestamp of measurement. 
+
+
+### Methodology:
+
+1. Create visualizations of data
+2. Correlation Matrix
+3. Feature Importance
+4. Build Models
+5. Evaluate Models
+6. Build applications for users
 
