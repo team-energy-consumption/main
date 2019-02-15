@@ -1,5 +1,7 @@
 # Welcome to Team High Energy
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fgithub.boozallencsn.com%2Fenergyconsumption%2Fmain%2Ftree%2Fmaster/master)
+
 This Project is a part of WiDS-I Program
 
 Developers: Andrew Barry, Sydney Green, Hillary Yarosh
