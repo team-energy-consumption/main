@@ -1,5 +1,9 @@
 # Welcome to Team High Energy
 
+Link to Google Colab (not accessible from withing the BAH network):
+https://colab.research.google.com/drive/16Cc-EJS_8a_yA8OQvywoL5aSBIu6-20f?authuser=1
+
+Link to Binder:
 https://mybinder.org/v2/gh/https%3A%2F%2Fgithub.boozallencsn.com%2Fenergyconsumption%2Fmain%2Ftree%2Fmaster/master
 
 
