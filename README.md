@@ -1,6 +1,6 @@
 # Welcome to Team High Energy
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/team-energy-consumption/main/binder?filepath=https%3A%2F%2Fgithub.com%2Fteam-energy-consumption%2Fmain%2Fblob%2Fbinder%2Fteam_high_energy.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/team-energy-consumption/main/binder)
 
 Link to Google Colab (not accessible from withing the BAH network):
 https://colab.research.google.com/github/team-energy-consumption/main/blob/master/team_high_energy.ipynb
