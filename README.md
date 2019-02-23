@@ -1,7 +1,5 @@
 # Welcome to Team High Energy
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/team-energy-consumption/main/blob/timestamps/team_high_energy.ipynb)
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/team-energy-consumption/main/timestamps)
 
 Link to Google Colab (not accessible from withing the BAH network):
