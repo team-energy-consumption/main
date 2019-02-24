@@ -28,9 +28,9 @@ Historical Weather Data: Information on the temperature of the weather station a
 ### Methodology:
 
 1. Create visualizations of data
-2. Correlation Matrix
-3. Feature Importance
-4. Build Models
+2. Feature selection & engineering (Correlation Matrix)
+3. Build model
+4. Feature Importance
 5. Evaluate Models
 6. Build applications for users
 
