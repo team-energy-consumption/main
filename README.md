@@ -1,9 +1,9 @@
 # Welcome to Team High Energy
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/team-energy-consumption/main/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/team-energy-consumption/main/merge-andrew)
 =======
 Link to Google Colab (not accessible from within the BAH network): you can specify the branch  
-https://colab.research.google.com/github/team-energy-consumption/main/blob/master/team_high_energy.ipynb
+https://colab.research.google.com/github/team-energy-consumption/main/blob/merge-andrew/team_high_energy.ipynb
 
 
 This Project is a part of WiDS-I Program
